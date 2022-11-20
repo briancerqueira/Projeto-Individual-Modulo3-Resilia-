@@ -1,18 +1,72 @@
 {
-    "produtos":[
-    {
+    "funcionario": [
+      {
+        "id": 1,
+        "nome": "Brian Cerqueira",
+        "cpf": "123.321.456-13",
+        "salario": "9000"
+      },
+      {
         "id": 2,
-        "nome": "Hambúrguer",
-        "descrição": "Pão, Bífe de Hambúrguer,salada e batata",
-        "preço": 8.5,
-        "categoria_id": 1
-    },
-    {
+        "nome": "Pelé",
+        "cpf": "198.351.456-13",
+        "salario": "1000"
+      },
+      {
+        "id": 3,
+        "nome": "Richarlison",
+        "cpf": "153.125.128-651",
+        "salario": "13500"
+      },
+      {
+        "id": 4,
+        "nome": "Neymar Júnior",
+        "cpf": "897.435.321-15",
+        "salario": "1500"
+      }
+    ],
+    "inquilino": [
+      {
+        "id": 1,
+        "nome": "Adão Pereira",
+        "imovel": 4,
+        "aluguel": "900"
+      },
+      {
         "id": 2,
-        "nome": "X-Burguer",
-        "descrição":"Pão, Bífe de Hambúrguer, 1 fatia de queijo, salada e batata",
-        "preço": 10.5,
-        "categoria_id": 1
-    }
+        "nome": "Yago",
+        "imovel": 1,
+        "aluguel": "1500"
+      },
+      {
+        "id": 3,
+        "nome": "Felício Fernando",
+        "imovel": 2,
+        "aluguel": "9800"
+      },
+      {
+        "id": 4,
+        "nome": "Felix Jr",
+        "imovel": 3,
+        "aluguel": "25000"
+      }
+    ],
+    "imovel": [
+      {
+        "id": 1,
+        "valor_aluguel": "1500"
+      },
+      {
+        "id": 2,
+        "valor_aluguel": "1800"
+      },
+      {
+        "id": 3,
+        "valor_aluguel": "25000"
+      },
+      {
+        "id": 4,
+        "valor_aluguel": "1500"
+      }
     ]
-}
+  }
