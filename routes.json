@@ -1,0 +1,19 @@
+{
+  "/funcionario/list": "/funcionario",
+  "/funcionario/get/:id": "/funcionario/:id",
+  "/funcionario/create": "/funcionario",
+  "/funcionario/update/:id": "/funcionario/:id",
+  "/funcionario/delete/:id": "/funcionario/:id",
+
+  "/inquilino/list": "/inquilino",
+  "/inquilino/get/:id": "/inquilino/:id",
+  "/inquilino/create": "/inquilino",
+  "/inquilino/update/:id": "/inquilino/:id",
+  "/inquilino/delete/:id": "/inquilino/:id",
+
+  "/imovel/list": "/imovel",
+  "/imovel/get/:id": "/imovel/:id",
+  "/imovel/create": "/imovel",
+  "/imovel/update/:id": "/imovel/:id",
+  "/imovel/delete/:id": "/imovel/:id"
+}
