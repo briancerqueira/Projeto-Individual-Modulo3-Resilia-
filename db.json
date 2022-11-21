@@ -1,5 +1,5 @@
 {
-    "funcionario": [
+    "": [
       {
         "id": 1,
         "nome": "Brian Cerqueira",
@@ -54,19 +54,31 @@
     "imovel": [
       {
         "id": 1,
-        "valor_aluguel": "1500"
+        "valor_aluguel": "1500",
+        "vagas_garagem": "2",
+        "quartos": "3",
+        "banheiros": "2"  
       },
       {
         "id": 2,
-        "valor_aluguel": "9800"
+        "valor_aluguel": "9800",
+        "vagas_garagem": "3",
+        "quartos": "6",
+        "banheiros": "5"
       },
       {
         "id": 3,
-        "valor_aluguel": "25000"
+        "valor_aluguel": "25000",
+        "vagas_garagem": "10",
+        "quartos": "9",
+        "banheiros": "7"  
       },
       {
         "id": 4,
-        "valor_aluguel": "900"
+        "valor_aluguel": "900",
+        "vagas_garagem": "1",
+        "quartos": "2",
+        "banheiros": "1"  
       }
     ]
   }
