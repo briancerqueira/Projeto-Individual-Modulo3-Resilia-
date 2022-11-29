@@ -112,3 +112,100 @@
     }
   ]
 }
+{
+  "imovel_residencial": [
+      {
+          "id": 1,
+          "tipo_de_imovel": "Apartamento",
+          "area": "140m²",
+          "quartos": 4,
+          "banheiros": 3,
+          "garagens": 2, 
+          "endereco": "Rua Conde de Bonfim, Tijuca, Rio de Janeiro/RJ",
+          "tipo_de_contrato": "Contrato de locação residencial",
+          "valor_do_imovel": "R$2.500,00/mês",
+          "valor_do_condominio": "R$1.000,00/mês"
+      },
+      {
+          "id": 2,
+          "tipo_de_imovel": "Casa",
+          "area": "118m²",
+          "quartos": 2,
+          "banheiros": 3,
+          "garagens": 1, 
+          "endereco": "Rua Oswaldo Lussac, Taquara, Rio de Janeiro/RJ",
+          "tipo_de_contrato": "Contrato de compra e venda de imóvel",
+          "valor_do_imovel": "R$390.000,00",
+          "valor_do_condominio": "R$209,00/mês"
+      },
+      {
+          "id": 3,
+          "tipo_de_imovel": "Loft",
+          "area": "50m²",
+          "quartos": 1,
+          "banheiros": 1,
+          "garagens": 1, 
+          "endereco": "Avenida Almirante Ary Parreiras, Icaraí, Niterói/RJ",
+          "tipo_de_contrato": "Contrato de compra e venda de imóvel",
+          "valor_do_imovel": "R$550.000,00",
+          "valor_do_condominio": "R$660,00/mês"
+      },
+      {
+          "id": 4,
+          "tipo_de_imovel": "Apartamento",
+          "area": "92m²",
+          "quartos": 3,
+          "banheiros": 2,
+          "garagens": 1, 
+          "endereco": "Avenida Atlântica, Leme, Rio de Janeiro/RJ",
+          "tipo_de_contrato": "Contrato de locação residencial",
+          "valor_do_imovel": "R$3.800,00/mês",
+          "valor_do_condominio": "R$1.610,00/mês"
+      }
+  ],
+  "imovel_comercial": [
+      {
+          "id": 1,
+          "tipo_de_imovel": "Sala comercial",
+          "endereco": "Avenida das Américas, Barra da Tijuca, Rio de Janeiro/RJ",
+          "salas": 2,
+          "banheiros": 2,
+          "garagens": 3,
+          "tipo_de_contrato": "Contrato de locação comercial",
+          "valor_do_imovel": "R$5.000,00/mês",
+          "valor_do_condominio": "R$2.450,00/mês"
+      },
+      {
+          "id": 2,
+          "tipo_de_imovel": "Casa comercial",
+          "endereco": "Rua Porto Amazonas, Campo Grande, Rio de Janeiro/RJ",
+          "salas": 3,
+          "banheiros": 2,
+          "garagens": 2,
+          "tipo_de_contrato": "Contrato de compra e venda de estabelecimento comercial",
+          "valor_do_imovel": "R$850.000,00",
+          "valor_do_condominio": "R$0,00"
+      },
+      {
+          "id": 3,
+          "tipo_de_imovel": "Ponto comercial",
+          "endereco": "Rua Voluntários da Pátria, Botafogo, Rio de Janeiro/RJ",
+          "salas": 2,
+          "banheiros": 2,
+          "garagens": 0,
+          "tipo_de_contrato": "Contrato de locação comercial",
+          "valor_do_imovel": "R$15.000,00/mês",
+          "valor_do_condominio": "R$6.000,00/mês"
+      },
+      {
+          "id": 4,
+          "tipo_de_imovel": "Sala comercial",
+          "endereco": "Rua São José, Centro, Rio de Janeiro/RJ",
+          "salas": 4,
+          "banheiros": 2,
+          "garagens": 1,
+          "tipo_de_contrato": "Contrato de locação comercial",
+          "valor_do_imovel": "R$3.848,00/mês",
+          "valor_do_condominio": "R$2.574,00/mês"
+      }
+  ]
