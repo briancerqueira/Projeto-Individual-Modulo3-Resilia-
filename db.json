@@ -111,8 +111,8 @@
       "metros": "44m²"
     }
   ]
-}
-{
+,
+
   "imovel_residencial": [
       {
           "id": 1,
@@ -161,6 +161,7 @@
           "tipo_de_contrato": "Contrato de locação residencial",
           "valor_do_imovel": "R$3.800,00/mês",
           "valor_do_condominio": "R$1.610,00/mês"
+          
       }
   ],
   "imovel_comercial": [
@@ -207,5 +208,6 @@
           "tipo_de_contrato": "Contrato de locação comercial",
           "valor_do_imovel": "R$3.848,00/mês",
           "valor_do_condominio": "R$2.574,00/mês"
-      }
+      }   
   ]
+}
