@@ -1,213 +1,208 @@
 {
-  "empregados": [
-    {
-      "id": 1,
-      "nome": "Brian Cerqueira",
-      "cpf": "123.321.456-13",
-      "salario": "9000",
-      "ano_de_contratação": "2017"
-    },
-    {
-      "id": 2,
-      "nome": "Pelé",
-      "cpf": "198.351.456-13",
-      "salario": "1000",
-      "ano_de_contratação": "2022"
-    },
-    {
-      "id": 3,
-      "nome": "Richarlison",
-      "cpf": "153.125.128-651",
-      "salario": "13500",
-      "ano_de_contratação": "2020"
-    },
-    {
-      "id": 4,
-      "nome": "Neymar Júnior",
-      "cpf": "897.435.321-15",
-      "salario": "1500",
-      "ano_de_contratação": "2019"
-    }
-  ],
-  "inquilino": [
-    {
-      "id": 1,
-      "nome": "Adão Pereira",
-      "imovel": 4,
-      "aluguel": "900",
-      "idade": "19"
-    },
-    {
-      "id": 2,
-      "nome": "Yago",
-      "imovel": 1,
-      "aluguel": "1500",
-      "idade": "21"
-    },
-    {
-      "id": 3,
-      "nome": "Felício Fernando",
-      "imovel": 2,
-      "aluguel": "9800",
-      "idade": "42"
-    },
-    {
-      "id": 4,
-      "nome": "Felix Jr",
-      "imovel": 3,
-      "aluguel": "25000",
-      "idade": "33"
-    }
-  ],
-  "imovel": [
-    {
-      "id": 1,
-      "valor_aluguel": "1500",
-      "vagas_garagem": "2",
-      "quartos": "3",
-      "banheiros": "2"
-    },
-    {
-      "id": 2,
-      "valor_aluguel": "9800",
-      "vagas_garagem": "3",
-      "quartos": "6",
-      "banheiros": "5"
-    },
-    {
-      "id": 3,
-      "valor_aluguel": "25000",
-      "vagas_garagem": "10",
-      "quartos": "9",
-      "banheiros": "7"
-    },
-    {
-      "id": 4,
-      "valor_aluguel": "900",
-      "vagas_garagem": "1",
-      "quartos": "2",
-      "banheiros": "1"
-    }
-  ],
-  "sítio": [
-    {
-      "valor_aluguel": "1500",
-      "vagas_garagem": "2",
-      "quartos": "3",
-      "piscinas": "2",
-      "churrasqueiras": "1",
-      "banheiros": "2"
-    }
-  ],
-  "apartamentos": [
-    {
-      "valor_aluguel": "2500",
-      "vagas_garagem": "5",
-      "quartos": "4",
-      "piscinas": "1",
-      "churrasqueiras": "1",
-      "banheiros": "2",
-      "iptu": "400",
-      "metros": "44m²"
-    }
-  ]
-,
-
-  "imovel_residencial": [
+    "Corretores": [
       {
-          "id": 1,
-          "tipo_de_imovel": "Apartamento",
-          "area": "140m²",
-          "quartos": 4,
-          "banheiros": 3,
-          "garagens": 2, 
-          "endereco": "Rua Conde de Bonfim, Tijuca, Rio de Janeiro/RJ",
-          "tipo_de_contrato": "Contrato de locação residencial",
-          "valor_do_imovel": "R$2.500,00/mês",
-          "valor_do_condominio": "R$1.000,00/mês"
+        "id": 1,
+        "nome": "Brian Cerqueira",
+        "cpf": "988.862.456-10",
+        "idade": "19 anos",
+        "salario": "9000"
       },
       {
-          "id": 2,
-          "tipo_de_imovel": "Casa",
-          "area": "118m²",
-          "quartos": 2,
-          "banheiros": 3,
-          "garagens": 1, 
-          "endereco": "Rua Oswaldo Lussac, Taquara, Rio de Janeiro/RJ",
-          "tipo_de_contrato": "Contrato de compra e venda de imóvel",
-          "valor_do_imovel": "R$390.000,00",
-          "valor_do_condominio": "R$209,00/mês"
+        "id": 2,
+        "nome": "Neymar Júnior",
+        "cpf": "099.881.310-40",
+        "idade": "30 anos",
+        "salario": "1000"
       },
       {
-          "id": 3,
-          "tipo_de_imovel": "Loft",
-          "area": "50m²",
-          "quartos": 1,
-          "banheiros": 1,
-          "garagens": 1, 
-          "endereco": "Avenida Almirante Ary Parreiras, Icaraí, Niterói/RJ",
-          "tipo_de_contrato": "Contrato de compra e venda de imóvel",
-          "valor_do_imovel": "R$550.000,00",
-          "valor_do_condominio": "R$660,00/mês"
+        "id": 3,
+        "nome": "Richarlison",
+        "cpf": "421.810.577-31",
+        "idade": "25 anos",
+        "salario": "7000"
       },
       {
-          "id": 4,
-          "tipo_de_imovel": "Apartamento",
-          "area": "92m²",
-          "quartos": 3,
-          "banheiros": 2,
-          "garagens": 1, 
-          "endereco": "Avenida Atlântica, Leme, Rio de Janeiro/RJ",
-          "tipo_de_contrato": "Contrato de locação residencial",
-          "valor_do_imovel": "R$3.800,00/mês",
-          "valor_do_condominio": "R$1.610,00/mês"
-          
+        "id": 4,
+        "nome": "Pelé",
+        "cpf": "876.341.796-30",
+        "idade": "82 anos",
+        "salario": "1600"
       }
-  ],
-  "imovel_comercial": [
+    ],
+    "inquilino": [
       {
-          "id": 1,
-          "tipo_de_imovel": "Sala comercial",
-          "endereco": "Avenida das Américas, Barra da Tijuca, Rio de Janeiro/RJ",
-          "salas": 2,
-          "banheiros": 2,
-          "garagens": 3,
-          "tipo_de_contrato": "Contrato de locação comercial",
-          "valor_do_imovel": "R$5.000,00/mês",
-          "valor_do_condominio": "R$2.450,00/mês"
+        "id": 5,
+        "nome": "Adão Pereira",
+        "salário": "4000",
+        "cpf": "073.103.407-44",
+        "idade": "30",
+        "profissao":"Eletricista",
+        "contato":"(22) 97443-2859",
+        "tempo_como_inquilino": "5 anos"
       },
       {
-          "id": 2,
-          "tipo_de_imovel": "Casa comercial",
-          "endereco": "Rua Porto Amazonas, Campo Grande, Rio de Janeiro/RJ",
-          "salas": 3,
-          "banheiros": 2,
-          "garagens": 2,
-          "tipo_de_contrato": "Contrato de compra e venda de estabelecimento comercial",
-          "valor_do_imovel": "R$850.000,00",
-          "valor_do_condominio": "R$0,00"
+        "id": 6,
+        "nome": "Cristiano Ronaldo",
+        "salário": "4200",
+        "cpf": "591.971.187-61",
+        "idade": "28",
+        "profissao":"Professor de ingles",
+        "contato":"(22) 97625-5713",
+        "tempo_como_inquilino": "2 anos"
       },
       {
-          "id": 3,
-          "tipo_de_imovel": "Ponto comercial",
-          "endereco": "Rua Voluntários da Pátria, Botafogo, Rio de Janeiro/RJ",
-          "salas": 2,
-          "banheiros": 2,
-          "garagens": 0,
-          "tipo_de_contrato": "Contrato de locação comercial",
-          "valor_do_imovel": "R$15.000,00/mês",
-          "valor_do_condominio": "R$6.000,00/mês"
+        "id": 7,
+        "nome": "Giorgian De Arrascaeta",
+        "salário": "3200",
+        "cpf": "954.716.077-08",
+        "idade": "53",
+        "profissao":"Chefe de cozinha",
+        "contato":"(21) 96889-4671",
+        "tempo_como_inquilino": "4 anos"
       },
       {
-          "id": 4,
-          "tipo_de_imovel": "Sala comercial",
-          "endereco": "Rua São José, Centro, Rio de Janeiro/RJ",
-          "salas": 4,
-          "banheiros": 2,
-          "garagens": 1,
-          "tipo_de_contrato": "Contrato de locação comercial",
-          "valor_do_imovel": "R$3.848,00/mês",
-          "valor_do_condominio": "R$2.574,00/mês"
-      }   
-  ]
-}
+        "id": 8,
+        "nome": "Lionel Messi",
+        "salário": "2500",
+        "cpf": "834.595.017-58",
+        "idade": "24",
+        "profissao":"Autonomo",
+        "contato":"(21) 99211-9761",
+        "tempo_como_inquilino": "3 anos"
+      }
+    ],
+    "apartamentos": [
+      {
+        "valor_aluguel": "2500",
+        "vagas_garagem": "5",
+        "quartos": "4",
+        "piscinas": "1",
+        "churrasqueiras": "1",
+        "banheiros": "2",
+        "iptu": "400",
+        "metros": "44m²"
+      }
+    ],
+    "imovel_residencial": [
+        {
+            "id": 9,
+            "tipo_de_imovel": "Apartamento",
+            "area": "140m²",
+            "quartos": 4,
+            "banheiros": 3,
+            "garagens": 2, 
+            "endereco": "Rua Conde de Bonfim, Tijuca, Rio de Janeiro/RJ",
+            "tipo_de_contrato": "Contrato de locação residencial",
+            "valor_do_imovel": "R$2.500,00/mês",
+            "valor_do_condominio": "R$1.000,00/mês"
+        },
+        {
+            "id": 10,
+            "tipo_de_imovel": "Casa",
+            "area": "118m²",
+            "quartos": 2,
+            "banheiros": 3,
+            "garagens": 1, 
+            "endereco": "Rua Oswaldo Lussac, Taquara, Rio de Janeiro/RJ",
+            "tipo_de_contrato": "Contrato de compra e venda de imóvel",
+            "valor_do_imovel": "R$390.000,00",
+            "valor_do_condominio": "R$209,00/mês"
+        },
+        {
+            "id": 11,
+            "tipo_de_imovel": "Loft",
+            "area": "50m²",
+            "quartos": 1,
+            "banheiros": 1,
+            "garagens": 1, 
+            "endereco": "Avenida Almirante Ary Parreiras, Icaraí, Niterói/RJ",
+            "tipo_de_contrato": "Contrato de compra e venda de imóvel",
+            "valor_do_imovel": "R$550.000,00",
+            "valor_do_condominio": "R$660,00/mês"
+        },
+        {
+            "id": 12,
+            "tipo_de_imovel": "Apartamento",
+            "area": "92m²",
+            "quartos": 3,
+            "banheiros": 2,
+            "garagens": 1, 
+            "endereco": "Avenida Atlântica, Leme, Rio de Janeiro/RJ",
+            "tipo_de_contrato": "Contrato de locação residencial",
+            "valor_do_imovel": "R$3.800,00/mês",
+            "valor_do_condominio": "R$1.610,00/mês"
+            
+        }
+    ],
+    "imovel_comercial": [
+        {
+            "id": 13,
+            "tipo_de_imovel": "Sala comercial",
+            "endereco": "Avenida das Américas, Barra da Tijuca, Rio de Janeiro/RJ",
+            "salas": 2,
+            "banheiros": 2,
+            "garagens": 3,
+            "tipo_de_contrato": "Contrato de locação comercial",
+            "valor_do_imovel": "R$5.000,00/mês",
+            "valor_do_condominio": "R$2.450,00/mês"
+        },
+        {
+            "id": 14,
+            "tipo_de_imovel": "Casa comercial",
+            "endereco": "Rua Porto Amazonas, Campo Grande, Rio de Janeiro/RJ",
+            "salas": 3,
+            "banheiros": 2,
+            "garagens": 2,
+            "tipo_de_contrato": "Contrato de compra e venda de estabelecimento comercial",
+            "valor_do_imovel": "R$850.000,00",
+            "valor_do_condominio": "R$0,00"
+        },
+        {
+            "id": 15,
+            "tipo_de_imovel": "Ponto comercial",
+            "endereco": "Rua Voluntários da Pátria, Botafogo, Rio de Janeiro/RJ",
+            "salas": 2,
+            "banheiros": 2,
+            "garagens": 0,
+            "tipo_de_contrato": "Contrato de locação comercial",
+            "valor_do_imovel": "R$15.000,00/mês",
+            "valor_do_condominio": "R$6.000,00/mês"
+        },
+        {
+            "id": 16,
+            "tipo_de_imovel": "Sala comercial",
+            "endereco": "Rua São José, Centro, Rio de Janeiro/RJ",
+            "salas": 4,
+            "banheiros": 2,
+            "garagens": 1,
+            "tipo_de_contrato": "Contrato de locação comercial",
+            "valor_do_imovel": "R$3.848,00/mês",
+            "valor_do_condominio": "R$2.574,00/mês"
+        }
+    ],
+    "formas_de_pagamento": [
+      {
+        "id": 17,
+        "Forma_1": "Pix",
+        "Conta": "Nubank pagamentos",
+        "limite_de_deposito": "15000"
+      },
+      {
+        "id": 18,
+        "Forma_2": "Cheque",
+        "Conta": "Banco do Brasil",
+        "limite_de_deposito": "10000"
+      },
+      {
+        "id": 19,
+        "Forma_3": "Débito automático",
+        "Conta": "Itaú UniBanco",
+        "limite_de_deposito": "9000"
+      },
+      {
+        "id": 20, 
+        "Forma_4": "Boleto",
+        "Conta": "Banco Bradesco",
+        "limite_de_deposito": "8000"
+      }]
+  }
