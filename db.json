@@ -69,20 +69,9 @@
         "profissao":"Autonomo",
         "contato":"(21) 99211-9761",
         "tempo_como_inquilino": "3 anos"
-      }
-    ],
-    "apartamentos": [
-      {
-        "valor_aluguel": "2500",
-        "vagas_garagem": "5",
-        "quartos": "4",
-        "piscinas": "1",
-        "churrasqueiras": "1",
-        "banheiros": "2",
-        "iptu": "400",
-        "metros": "44m²"
-      }
-    ],
+      },
+    []
+  ],
     "imovel_residencial": [
         {
             "id": 9,
