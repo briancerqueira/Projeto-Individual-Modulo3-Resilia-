@@ -39,7 +39,7 @@
         "id": 6,
         "nome": "Orlando Pereira",
         "cpf": "631.817.767-18",
-        "idade": "23 anos",
+        "idade": "25 anos",
         "salario": "5500"
       },
       {
@@ -53,14 +53,14 @@
         "id": 8,
         "nome": "Lara Sharmon",
         "cpf": "732.807.477-91",
-        "idade": "23 anos",
+        "idade": "19 anos",
         "salario": "5100"
       },
       {
         "id": 9,
         "nome": "Gabrielly França",
         "cpf": "543.390.587-00",
-        "idade": "23 anos",
+        "idade": "24 anos",
         "salario": "5250"
       }
       
